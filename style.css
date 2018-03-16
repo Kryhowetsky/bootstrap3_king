@@ -1,0 +1,13 @@
+
+body {
+    margin-top: 60px;
+}
+
+.row {
+    background: rgba(15,82,186, .4 );
+
+}
+
+.jumbotron{
+    background: white;
+}
